@@ -104,7 +104,7 @@ To set up the project on your machine, follow the steps in the [Installation Gui
 
 ## Directory Structure
 
-The directory structure for the **Mapping and Path Planning in Autonomous Navigation with ROS 2** project is organized as shown for clarity, scalability, and ease of use. The most up-to-date structure can be found here: [Project Directory Structure](./docs/project_structure.md)
+The directory structure for the **Mapping and Path Planning in Autonomous Navigation with ROS 2** project is organized as shown for clarity, scalability, and ease of use. 
 
 ```bash
 📂 mapping-path-planning-ros2/
@@ -123,6 +123,8 @@ The directory structure for the **Mapping and Path Planning in Autonomous Naviga
 ├── README.md
 ├── LICENSE
 ```
+
+The most up-to-date structure can be found here: [Project Directory Structure](./docs/project_structure.md)
 ---
 
 ## How to Use This Repository
