@@ -129,6 +129,7 @@ The directory structure for the **Mapping and Path Planning in Autonomous Naviga
 ```
 
 This directory structure is continuously updated as the project progresses. For the most up-to-date structure, see the [Project Directory Structure](./docs/project_structure.md).
+
 ---
 
 ## How to Use This Repository

@@ -1,7 +1,8 @@
 
 ## Project Directory Structure
 
-This directory structure is continously updated as the project progresses.
+This directory structure is continuously updated as the project progresses. 
+
 ```bash
 📂 mapping-path-planning-ros2/
 ├── 📂 docs/                   # Documentation files
