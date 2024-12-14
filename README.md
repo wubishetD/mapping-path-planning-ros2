@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <img src="resources/images/FRA-UAS_Logo_rgb.jpg" width="150"/>
 
-<h2 align="center">MAP: Mapping and Path Planning in Autonomous Navigation with ROS 2</h2>
+<h3 align="center">MAP-2: Mapping and Path Planning in Autonomous Navigation with ROS 2</h3>
 
 <p align="center">
     <br>
@@ -25,6 +25,8 @@
 
 </div>
 
+
+---
 ## Feature Overview
 
 This project explores the implementation of **Mapping and Path Planning in Autonomous Navigation** using ROS 2. At this stage, the features below represent **planned objectives** 
@@ -36,7 +38,7 @@ This project explores the implementation of **Mapping and Path Planning in Auton
 *   [ ] **Performance Evaluation**: Define metrics to evaluate mapping accuracy, path efficiency, and re-planning latency.
 *   [ ] **Documentation**: Provide detailed guides for setting up and running the project.
 
-
+---
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Quick Links](#quick-links)
@@ -92,7 +94,9 @@ The project consists of three core components:
 2. **Path Planning**: For determining optimal paths from the robot's current position to a goal.
 3. **Navigation**: For executing planned paths and re-planning dynamically if necessary.
 
-![System Architecture](.resources/images/system_architecture.png)
+<!-- ![System Architecture](./resources/images/system_architecture.png) -->
+
+The diagram for the system architecture will be added soon.
 
 ---
 
@@ -124,7 +128,7 @@ The directory structure for the **Mapping and Path Planning in Autonomous Naviga
 ├── LICENSE
 ```
 
-The most up-to-date structure can be found here: [Project Directory Structure](./docs/project_structure.md)
+This directory structure is continuously updated as the project progresses. For the most up-to-date structure, see the [Project Directory Structure](./docs/project_structure.md).
 ---
 
 ## How to Use This Repository
