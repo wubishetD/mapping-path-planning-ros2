@@ -12,7 +12,7 @@
     <br>
     <br>
     <br>
-    <strong>Group Members:</strong>
+    <strong>MAP-2 Group Members:</strong>
 </p>
 
 <div align="center">
