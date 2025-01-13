@@ -72,17 +72,19 @@ This project explores the implementation of **Mapping and Path Planning in Auton
    - Includes detailed milestones, phases, and timeline.
 2. [Project Proposal](./docs/project_proposal.md)  
    - Includes title, summary, context, objectives, methodology, challenges, timeline, deliverables, references, and conclusion.
-2. [Deliverables](./docs/deliverables.md)  
+2. [Litrature Review](./docs/litrature_review.md)  
+   - Includes SLAM, path planning, simulation techniques, ROS 2, and research gaps.
+3. [Deliverables](./docs/deliverables.md)  
    - Lists deliverables for each phase of the project.
-3. [Simulation Scenarios](./docs/simulation_scenarios.md)  
+4. [Simulation Scenarios](./docs/simulation_scenarios.md)  
    - Details on test environments for SLAM and path planning algorithms.
-4. [Algorithm Choices](./docs/algorithm_choices.md)  
+5. [Algorithm Choices](./docs/algorithm_choices.md)  
    - Explains the rationale for SLAM and path planning algorithm selection.
-5. [Performance Metrics](./docs/performance_metrics.md)  
+6. [Performance Metrics](./docs/performance_metrics.md)  
    - Defines evaluation criteria for mapping, navigation, and overall system performance.
-6. [Final Report](./docs/final_report.md)  
+7. [Final Report](./docs/final_report.md)  
    - Links to the final project report (to be completed).
-7. [Presentation Slides](./docs/presentation_slides.md)  
+8. [Presentation Slides](./docs/presentation_slides.md)  
    - Links to the final presentation slides (to be completed).
 
 
