@@ -3,14 +3,13 @@
 
 | **Name**                       | **Matriculation No.** | **Role**      |
 |--------------------------------|-----------------------|---------------|
-| Khaled Nabil Mounir Kandil     | 1364635              | Team Member   |
-| Wubishet Yibabie Damtie        | 1324950              | Team Member   |
-
-| **Project Details**           |                       |
-|-------------------------------|-----------------------|
-| **Project Group**             | MAP-2                |
-| **Submission Date**           | Fri, 21-Mar-2025     |
-| **Supervisor**                | Prof. Dr. Peter Nauth|
+| Khaled Nabil Mounir Kandil     | 1364635               | Team Member   |
+| Wubishet Yibabie Damtie        | 1324950               | Team Member   |
+| **Project Details**            |                       |               |
+|--------------------------------|-----------------------|               |
+| **Project Group**              | MAP-2                 |               |
+| **Submission Date**            | Fri, 21-Mar-2025      |               |
+| **Supervisor**                 | Prof. Dr. Peter Nauth |               |
 
 
 ---
