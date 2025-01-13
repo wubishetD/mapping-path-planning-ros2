@@ -78,16 +78,15 @@ This project explores the implementation of **Mapping and Path Planning in Auton
    - Lists deliverables for each phase of the project.
 4. [Simulation Scenarios](./docs/simulation_scenarios.md)
    - Details on test environments for SLAM and path planning algorithms.
-
-   [Simulation Setup](./docs/simulation_setups.md) 
+5. [Simulation Setup](./docs/simulation_setups.md) 
    - Includes Gazebo setups, TurtleBot3 configurations, SLAM, path planning, evaluation.
-5. [Algorithm Choices](./docs/algorithm_choices.md)  
+6. [Algorithm Choices](./docs/algorithm_choices.md)  
    - Explains the rationale for SLAM and path planning algorithm selection.
-6. [Performance Metrics](./docs/performance_metrics.md)  
+7. [Performance Metrics](./docs/performance_metrics.md)  
    - Defines evaluation criteria for mapping, navigation, and overall system performance.
-7. [Final Report](./docs/final_report.md)  
+8. [Final Report](./docs/final_report.md)  
    - Links to the final project report (to be completed).
-8. [Presentation Slides](./docs/presentation_slides.md)  
+9. [Presentation Slides](./docs/presentation_slides.md)  
    - Links to the final presentation slides (to be completed).
 
 
@@ -149,7 +148,8 @@ This directory structure is continuously updated as the project progresses. For 
 ---
 ## Results and Visuals
 
-
+[Experimental Results](./docs/experimental_results.md) 
+   - Includes SLAM performance, path planning, dynamic testing, challenges, and insights.
 
 ---
 ## Future Work
