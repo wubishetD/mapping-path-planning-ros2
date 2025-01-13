@@ -70,6 +70,8 @@ This project explores the implementation of **Mapping and Path Planning in Auton
 ## Quick Links
 1. [Project Plan](./docs/project_plan.md)  
    - Includes detailed milestones, phases, and timeline.
+2. [Project Proposal](./docs/project_proposal.md)  
+   - Includes title, summary, context, objectives, methodology, challenges, timeline, deliverables, references, and conclusion.
 2. [Deliverables](./docs/deliverables.md)  
    - Lists deliverables for each phase of the project.
 3. [Simulation Scenarios](./docs/simulation_scenarios.md)  
