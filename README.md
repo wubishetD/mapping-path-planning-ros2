@@ -76,9 +76,10 @@ This project explores the implementation of **Mapping and Path Planning in Auton
    - Includes SLAM, path planning, simulation techniques, ROS 2, and research gaps.
 3. [Deliverables](./docs/deliverables.md)  
    - Lists deliverables for each phase of the project.
-4. [Simulation Scenarios](./docs/simulation_scenarios.md), [Simulation Setup](./docs/simulation_setup.md) 
+4. [Simulation Scenarios](./docs/simulation_scenarios.md)
    - Details on test environments for SLAM and path planning algorithms.
-   [Simulation Setup](./docs/simulation_setup.md) 
+
+   [Simulation Setup](./docs/simulation_setups.md) 
    - Includes Gazebo setups, TurtleBot3 configurations, SLAM, path planning, evaluation.
 5. [Algorithm Choices](./docs/algorithm_choices.md)  
    - Explains the rationale for SLAM and path planning algorithm selection.
