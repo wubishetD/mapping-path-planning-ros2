@@ -1,15 +1,17 @@
 ## Mapping and Path Planning in Autonomous Navigation with ROS 2
 
-### Authors:
-Khaled Nabil Mounir Kandil  
-Matriculation No: 1364635  
 
-Wubishet Yibabie Damtie  
-Matriculation No: 1324950  
+| **Name**                       | **Matriculation No.** | **Role**      |
+|--------------------------------|-----------------------|---------------|
+| Khaled Nabil Mounir Kandil     | 1364635              | Team Member   |
+| Wubishet Yibabie Damtie        | 1324950              | Team Member   |
 
-**Project Group:** MAP-2  
-**Submission Date:** Fri, 21-Mar-2025  
-**Supervisor:** Prof. Dr. Peter Nauth  
+| **Project Details**           |                       |
+|-------------------------------|-----------------------|
+| **Project Group**             | MAP-2                |
+| **Submission Date**           | Fri, 21-Mar-2025     |
+| **Supervisor**                | Prof. Dr. Peter Nauth|
+
 
 ---
 
