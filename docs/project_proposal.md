@@ -116,3 +116,10 @@ Comparative analysis is performed against established benchmarks.
 ### Conclusion
 
 This project aims to enhance the integration of mapping and path planning techniques in autonomous navigation using ROS 2. By addressing challenges in accuracy, adaptability, and computational efficiency, the results will contribute to the development of more intelligent and efficient AIS. The insights gained will pave the way for advanced autonomous navigation systems capable of navigating complex, dynamic environments.
+
+---
+### Topic Proposal (TopicProp)
+
+The detailed topic proposal for the project can be accessed via the following SharePoint link:
+
+[Topic Proposal - Mapping and Path Planning in ROS 2](https://studfrauasde-my.sharepoint.com/:w:/g/personal/uas0021736_stud_fra-uas_de/EehqviL0XFpOky5aAc4fmacBXk6AICHUFNyeEWEnEq7j5g?e=8lFmM3)
